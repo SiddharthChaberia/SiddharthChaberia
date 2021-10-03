@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hi, I'm -Siddharth Chaberia-! 👻🤡
 
-<!--
-**SiddharthChaberia/SiddharthChaberia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Basic Info 🕳
+ 
+| | |
+|-|-|
+|**Name**|`Siddharth Chaberia`|
+|**Course**|`B.Tech(CSE)`|
+|**College**|`NSEC`|
+|**City**|`Kolkata`|
+  
+## Here are my Computer Skills 🕳
+| | |
+|-|-|
+|**👉**|`Python`|
+|**👉**|`C/C++`|
+|**👉**|`MySQL`|
+|**👉**|`HTML Basic`|
 
-Here are some ideas to get you started:
+## Languages I Know 🕳
+| | |
+|-|-|
+|**👉**|`English`|
+|**👉**|`Hindi`|
+|**👉**|`Bengali`|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Add me](www.linkedin.com/in/siddharth-chaberia) on LinkedIn 😏
+
+<img src= "https://user-images.githubusercontent.com/72343060/135703970-c1452ec2-ce8f-4409-8a4d-c89febc79629.gif" > 
