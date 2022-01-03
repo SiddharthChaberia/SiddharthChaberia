@@ -1,4 +1,4 @@
-# Hi their <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Siddharth Chaberia! 👻
+# Hi their <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> , I'm Siddharth Chaberia! <img src= "https://todaysbride.com/wp-content/uploads/2019/10/ghost-gif.gif" width="30px">
 
 
 ## Basic Info 🕳
