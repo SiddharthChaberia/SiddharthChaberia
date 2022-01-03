@@ -10,9 +10,9 @@
 |**College**|`NSEC`|
 |**City**|`Kolkata`|
 
-[![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=SiddharthChaberia)](https://github.com/siddharthchab)
+[![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=SiddharthChaberia)](https://github.com/SiddharthChaberia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthChaberia&layout=compact)](https://github.com/siddharthchab)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthChaberia&layout=compact)](https://github.com/SiddharthChaberia)
   
 ## Here are my Computer Skills 🕳
 | | |
