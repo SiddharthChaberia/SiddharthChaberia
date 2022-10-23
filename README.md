@@ -10,7 +10,11 @@
 |**College**|`NSEC`|
 |**City**|`Kolkata`|
 
-[![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=SiddharthChaberia)](https://github.com/SiddharthChaberia)
+[![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=SiddharthChaberia&show_icons=true&theme=radical)](https://github.com/SiddharthChaberia)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SiddharthChaberia&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=SiddharthChaberia)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthChaberia&layout=compact)](https://github.com/SiddharthChaberia)
   
